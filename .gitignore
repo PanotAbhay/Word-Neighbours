@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Tool caches
+.ruff_cache/
+
+# Local tooling and AI assistant files (not needed to run the project)
+.claude/
+.vscode/
+.idea/
+CLAUDE.md
+CLAUDE.local.md
+docs/
+
+# Local environment and work scratch
+.venv/
+.superpowers/
+
+# Generated output and downloads (recreate with the commands in README.md)
+data/embeddings.txt
+data/raw/
+data/work/
+data/model/
+data/smoke/
+data/puzzles_tune.txt
+data/puzzles_test.txt
+data/test_log.txt

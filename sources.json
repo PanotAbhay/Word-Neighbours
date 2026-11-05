@@ -1,0 +1,174 @@
+{
+  "lists": [
+    {
+      "name": "battig.csv",
+      "url": "https://raw.githubusercontent.com/vecto-ai/word-benchmarks/9b61d0e067e2e68af22160d09450f82d9544cd70/word-categorization/monolingual/en/battig.csv",
+      "size": 146439,
+      "sha256": "b7146cac221664de3781d47b8463c4e50841a138be26ff96f2d4aa4110126898",
+      "group": null
+    },
+    {
+      "name": "ap.csv",
+      "url": "https://raw.githubusercontent.com/vecto-ai/word-benchmarks/9b61d0e067e2e68af22160d09450f82d9544cd70/word-categorization/monolingual/en/ap.csv",
+      "size": 9283,
+      "sha256": "0efdcdf298946620f4d3db17743483b45ac09169c3ef943761d52ff9a0de8974",
+      "group": null
+    },
+    {
+      "name": "bless.csv",
+      "url": "https://raw.githubusercontent.com/vecto-ai/word-benchmarks/9b61d0e067e2e68af22160d09450f82d9544cd70/word-categorization/monolingual/en/bless.csv",
+      "size": 4167,
+      "sha256": "cf14ae0c0feeb78a7d85e0a3ca725ab5f573677ceaa950b7417db749a7012cc3",
+      "group": null
+    },
+    {
+      "name": "essli-2008.csv",
+      "url": "https://raw.githubusercontent.com/vecto-ai/word-benchmarks/9b61d0e067e2e68af22160d09450f82d9544cd70/word-categorization/monolingual/en/essli-2008.csv",
+      "size": 1321,
+      "sha256": "b41a8437ea6165bb3f96751f1fb51b4be5a200c02cf28ae7ca7b42ddc631c320",
+      "group": null
+    },
+    {
+      "name": "english-wordnet-2025.xml.gz",
+      "url": "https://github.com/globalwordnet/english-wordnet/releases/download/2025-edition/english-wordnet-2025.xml.gz",
+      "size": 11363503,
+      "sha256": "9ca6d1dcb75f822fdd66617f7d9da48142ace38dd544d6ad5e2feca1674ad3fe",
+      "group": null
+    },
+    {
+      "name": "verbnet3.zip",
+      "url": "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/verbnet3.zip",
+      "size": 482025,
+      "sha256": "fa0136a7699c52f0bd532dc5adc0914745aa4369a52ae1465cb11841060ec1de",
+      "group": null
+    },
+    {
+      "name": "varcon.txt",
+      "url": "https://raw.githubusercontent.com/en-wl/wordlist/b22230cc5250887737fdefe9ca4c9d9d01230eaa/varcon/varcon.txt",
+      "size": 846263,
+      "sha256": "75af63da46ec12d7eb14b9f1ba8d3898d484dd6872755b73c921b215875a3629",
+      "group": null
+    },
+    {
+      "name": "voc.tab",
+      "url": "https://raw.githubusercontent.com/en-wl/wordlist/b22230cc5250887737fdefe9ca4c9d9d01230eaa/varcon/voc.tab",
+      "size": 6575,
+      "sha256": "08905f4a9b316b4fbbe5bffd6fca3af6b52ea293a0630c8877105e00cd800bfe",
+      "group": null
+    }
+  ],
+  "text": [
+    {
+      "name": "uk_1B_sample.parquet",
+      "url": "https://huggingface.co/datasets/JoeyLLM/uk-dataset-1b/resolve/8e4a3c3684cfb293873721af52474dfe8df4082e/uk_1B_sample.parquet",
+      "size": 2939227943,
+      "sha256": "5eebc50fa282c3c1cd0e3b35a5884695bb62564764e016a1b408fd18574201a7",
+      "group": "uk"
+    },
+    {
+      "name": "000_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/000_00000.parquet",
+      "size": 2147292183,
+      "sha256": "6b552ea48424648dc86d00df276f93fdfc55e9ad342ce3e4affc23a3a370792b",
+      "group": "fine"
+    },
+    {
+      "name": "001_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/001_00000.parquet",
+      "size": 2146714409,
+      "sha256": "6e08e6b25ed415c734c2b7e071afd6e62536f418afba0028c77c225218229c08",
+      "group": "fine"
+    },
+    {
+      "name": "002_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/002_00000.parquet",
+      "size": 2148105492,
+      "sha256": "37f389ea51e8db23cab8943c1634bfaa9936f09beff25e06dfe173e5b49566ac",
+      "group": "fine"
+    },
+    {
+      "name": "003_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/003_00000.parquet",
+      "size": 2147060562,
+      "sha256": "fa0fba42d6608dd650f8637cf27ea1362ce80ca8d2506fe1370e6c658455635f",
+      "group": "fine"
+    },
+    {
+      "name": "004_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/004_00000.parquet",
+      "size": 2146566804,
+      "sha256": "c862bb4620c4a8037872b753e4520abdf2ec01a627bd9cab375f946cf7d21208",
+      "group": "fine"
+    },
+    {
+      "name": "005_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/005_00000.parquet",
+      "size": 2146969492,
+      "sha256": "7e504858556b556547c79f7e4ed4b1a635a8ff0c7acaba4fc96293043be192fe",
+      "group": "fine"
+    },
+    {
+      "name": "006_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/006_00000.parquet",
+      "size": 2147298995,
+      "sha256": "956467cb8120d5c4b0ddfb5e1fe2078f1f8bb21018c1e65caecf1c2d381743fd",
+      "group": "fine"
+    },
+    {
+      "name": "007_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/007_00000.parquet",
+      "size": 2148002325,
+      "sha256": "0c6e3febbf7d56e51dac7594e6c94e7f786a59d4a0f33d5ab5e98aaa49ef32d0",
+      "group": "fine"
+    },
+    {
+      "name": "008_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/008_00000.parquet",
+      "size": 2147398331,
+      "sha256": "84d7a5c4849034c3f454f5ae387639b1e4083c5554b65148bfc725d37dd64228",
+      "group": "fine"
+    },
+    {
+      "name": "009_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/009_00000.parquet",
+      "size": 2148338231,
+      "sha256": "fbf1c8ceed24c754dc7be82df4c8a238b54a2865b0542af856662bb6c9f68cd8",
+      "group": "fine"
+    },
+    {
+      "name": "010_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/010_00000.parquet",
+      "size": 2147655539,
+      "sha256": "69565902f5ac299767d62efb4320377870451072641af58fc320657d9afa5b5c",
+      "group": "fine"
+    },
+    {
+      "name": "011_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/011_00000.parquet",
+      "size": 2147091724,
+      "sha256": "221ab32081d0a1b712e31b099912a3ea41bf3af568ddb6ce808adc3938a32ab3",
+      "group": "fine"
+    },
+    {
+      "name": "012_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/012_00000.parquet",
+      "size": 2147653017,
+      "sha256": "34caf1a6bf36a635f58a5bab69c8e34c383dba15aab19d92de852188ba395716",
+      "group": "fine"
+    },
+    {
+      "name": "013_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/013_00000.parquet",
+      "size": 2148275619,
+      "sha256": "48aa6144f665f98139a14cbc1cc28b976c895efc4e4c1df381cff362dbe96993",
+      "group": "fine"
+    },
+    {
+      "name": "014_00000.parquet",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb/resolve/9bb295ddab0e05d785b879661af7260fed5140fc/sample/10BT/014_00000.parquet",
+      "size": 574962194,
+      "sha256": "7168f92a680b3e28155a6b654ebf235b19bf4d2ab35f91dbab3fb47cbd629a8e",
+      "group": "fine"
+    }
+  ]
+}
