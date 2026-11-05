@@ -85,6 +85,8 @@ Learning curve on the tune puzzles: 0.825 at 100 million words, 0.841 at 1 billi
 
 A model without SVD scored 0.792, so the SVD step helps. A hubness correction (CSLS) lowered the score and the pipeline dropped it. One method round (shifted PPMI, `skip`, `p`, up to 600 dimensions, `rule`, 20,000 columns) gained at most 0.0009, below the 0.005 gain rule, so the model stayed the same.
 
+Rerun on 2026-11-05: the saved model gave the same scores on the tune puzzles, and all 280 unit tests passed. No tune puzzle held a word outside the vocabulary. The US form scored 0.817 and the UK form scored 0.843 on 229 twin pairs.
+
 The tune puzzles chose the settings, so this score is not an unbiased result. The test puzzles have not been scored. Close nouns cause most errors.
 
 ## Credits and notices
